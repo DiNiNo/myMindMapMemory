@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/MyMind"/>
+    <qresource prefix="/img">
+        <file>Resources/cloud.png</file>
+    </qresource>
+</RCC>
